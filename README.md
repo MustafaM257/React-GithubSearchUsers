@@ -1,6 +1,6 @@
 # GitHub Insights Website
 
-![GitHub Insights Website]()
+[GitHub Insights Website]
 
 This is a GitHub Insights website that allows you to search for GitHub users and provides you with valuable information about them, such as their profile details, repositories, and followers. The website is built using React and leverages various libraries and APIs to create a seamless user experience.
 
