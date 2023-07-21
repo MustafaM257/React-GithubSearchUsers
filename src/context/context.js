@@ -68,7 +68,7 @@ const GithubProvider = ({ children }) => {
   useEffect(() => {
     checkRequests();
     searchGithubUser('MustafaM257'); // initially
-  }, []);
+  },[]);
 
   return (
     <GithubContext.Provider
