@@ -1,6 +1,6 @@
 # GitHub Insights Website
 
-![GitHub Insights Website]()
+[GitHub Insights Website]
 
 This is a GitHub Insights website that allows you to search for GitHub users and provides you with valuable information about them, such as their profile details, repositories, and followers. The website is built using React and leverages various libraries and APIs to create a seamless user experience.
 
@@ -25,7 +25,7 @@ This is a GitHub Insights website that allows you to search for GitHub users and
 
 ## Deployment
 
-The website is deployed on [Netlify](https://www.netlify.com/), ensuring that it is easily accessible to users.
+The website is deployed on [Netlify](https://mustafam257-react-githubsearchusers.netlify.app/), ensuring that it is easily accessible to users.
 
 ## Getting Started
 
